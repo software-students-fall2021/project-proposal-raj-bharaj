@@ -15,7 +15,7 @@ From an end-users perspective, ViewPoint will manage all your active windows and
 ### Scope
 The project skeleton could be created by leveraging the CSS grid system to create basic screen partitions. However, as the semester advances implementing the features listed below would be sufficiently challenging to require the collective efforts of 5 programmers. 
 
-#### Features
+### Features
 - Drag and drop: drag and drop windows and tabs into your ViewPoint window to see them
 - Add/Remove container: add/remove containers into your ViewPoint window space
 - Resize container: Resize any application, window or tab container in your ViewPoint window
