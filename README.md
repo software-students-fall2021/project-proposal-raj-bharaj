@@ -1,18 +1,24 @@
-### Project title
-Give your project a nice title.
+## Project title
+ViewPoint
+
+### Author
+Rajan Bharaj (rtb325@nyu.edu)
 
 ### What and why?
-What software system would you like to build this semester, and why?  Include a description of what problem the system would solve and why this is important.
+How much time do you spend switching windows and tabs? ViewPoint is a holistic approach to screen-space management with the aim of increasing productivity and decreasing wasted time. There are many tab organizers and widgets out there, but not many are able to allow the user to fully customize their screen. ViewPoint was created out of the frustrations of using windows splitscreen, google group tabs and many more poor solutions to a simple problem: I can't see what I need to on my device. 
 
 ### For whom?
-Who will this software be for?  These people are your end-users or customers.
-
-Do not make software for imaginary users who do not exist - you must have real people as your initial end-users.  Tell us who they are.  For example, is it for a particular type of business, mass consumer, a campus office, a professor, or friends or family, or ... people just like you.
-
-Understanding who your end-users are, and ideally speaking with some along the way, will help you refine your designs to be suitable for your audience, and understand whether you have succeeded at the end or not.
+ViewPoint is for anyone tired of switching windows and tabs. Its ideal end-user is someone with a large enough device to reap its benefits. A mobile user will be singifiantly more limited in their customization ability, whereas latop and desktop users will see much more customization functionality. 
 
 ### How?
-A description of what the system will do from an end-user's perspective.  Be as complete as necessary to fully explain the system, but do not worry about technical implementation - this will be developed in subsequent work.
+From an end users perspective, ViewPoint will manage all your active windows and tabs in a single window. It will act as a principal container space where a user can view multiple application windows and tabs in a single ViewPoint window, so that switching windows and tabs is rendered obselete. 
 
 ### Scope
-A brief justification that the proposal is neither too easy nor too ambitions for a group of approximately 4 - 6 programmers to undertake in one semester.
+The project skeleton could be created by leveraging the CSS grid system to create basic screen partitions. However, as the semester advances implementing the features listed below would be sufficiently challenging to require the collective efforts of 5 programmers. 
+
+### Features
+- Drag and drop: drag and drop windows and tabs into your ViewPoint window to see them
+- Add/Remove container: add/remove containers into your ViewPoint window space
+- Resize container: Resize any application, window or tab module in your ViewPoint window
+- Reorder container: Reorder your ViewPoint containers for complete control of your screen
+- Multi-monitor mode: Support for users with multiple monitors
